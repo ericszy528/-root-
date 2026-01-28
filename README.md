@@ -4,7 +4,7 @@
 
 ## 一键脚本
 ```
-bash <(curl -fsSL root-silk.vercel.app)
+bash <(curl -fsSL https://raw.githubusercontent.com/ericszy528/-root-/refs/heads/main/root.sh)
 ```
 
 ## 详细说明
